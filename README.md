@@ -8,3 +8,5 @@ achieve captioning of image.
 
 3.) This model is useful in many fields such as helping the visually impaired, medical image
 analysis, geospatial image analysis, etc.
+
+![image](https://user-images.githubusercontent.com/100507234/205453096-287f6fa1-6733-4f22-8e4e-6963f7168034.png)
